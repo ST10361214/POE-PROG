@@ -1,0 +1,6 @@
+C:\Users\lab_services_student\Documents\Visual Studio 2022\RecipeApp1\obj\Debug\RecipeApp1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\RecipeApp1\obj\Debug\MainWindow.g.cs
+C:\Users\lab_services_student\Documents\Visual Studio 2022\RecipeApp1\obj\Debug\App.g.cs
+C:\Users\lab_services_student\Documents\Visual Studio 2022\RecipeApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lab_services_student\Documents\Visual Studio 2022\RecipeApp1\obj\Debug\RecipeApp1_MarkupCompile.cache
+C:\Users\lab_services_student\Documents\Visual Studio 2022\RecipeApp1\obj\Debug\RecipeApp1_MarkupCompile.lref
